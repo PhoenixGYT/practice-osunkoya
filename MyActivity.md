@@ -20,4 +20,15 @@ My favorite outdoor activity would be festival, I love going out to a festival a
 
 >"The future belongs to those who believe in the beauty of their dreams." — ***Eleanor Roosevelt***
 
->"You have to believe in yourself when no one else does." — ***Serena Williams*** 
+>"You have to believe in yourself when no one else does." — ***Serena Williams***
+
+---
+## Code
+
+Desc: Delays execution of a function till call stack is emptied.
+```
+const defer = (fn, ...args) => setTimeout(fn, 1, ...args);
+
+defer(console.log, 'a'), console.log('b'); // logs 'b' then 'a'
+```
+Source: ![Code Snippet](https://pieces.app/collections/javascript)
