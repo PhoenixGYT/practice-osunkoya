@@ -31,4 +31,4 @@ const defer = (fn, ...args) => setTimeout(fn, 1, ...args);
 
 defer(console.log, 'a'), console.log('b'); // logs 'b' then 'a'
 ```
-Source: ![Code Snippet](https://pieces.app/collections/javascript)
+Source: [Code Snippet](https://pieces.app/collections/javascript)
