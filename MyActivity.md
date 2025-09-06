@@ -7,7 +7,7 @@ My favorite outdoor activity would be festival, I love going out to a festival a
 ## People I wish I could meet.
 
 | Person | Why | Date of Birth | Date of Death |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Zendaya | Iconic Female Actress | Sept 1st 1996 | Alive |
 | Ray Volpe | Favorite EDM Artist | Jun 4 1997 | Alive |
 | Tyson Ngo | Favorite Ex-Esports Pro | May 5 2001 | Alive |
